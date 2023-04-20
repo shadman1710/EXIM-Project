@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url('./backexim.jpeg') no-repeat;
+    background-size: cover;
+}
+.container{
+    text-align: center;
+    margin-top: 360px;
+}
+.btn{
+    border: 1px solid #f5f5dc;
+
+    background: #f5f5dc;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "montserrat";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: relative;
+    overflow: hidden;
+}
+.btn1,.btn2{
+    color:black;
+    
+}
